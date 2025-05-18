@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85f0b7fe-d3e5-4a18-af1b-495e39b952c5" name="Changes" comment="new">
-      <change afterPath="$PROJECT_DIR$/bai13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai13_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai15-N.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai15-Traitim.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai16-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai16-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai17.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,11 +53,19 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Bai15-N.executor": "Run",
+    "Python.Bai15.executor": "Run",
     "Python.bai 8.executor": "Run",
     "Python.bai1.executor": "Run",
     "Python.bai10.executor": "Run",
     "Python.bai13.executor": "Run",
     "Python.bai13_1.executor": "Run",
+    "Python.bai14.executor": "Run",
+    "Python.bai15-Traitim.executor": "Run",
+    "Python.bai16-2.executor": "Run",
+    "Python.bai16-3.executor": "Run",
+    "Python.bai16.executor": "Run",
+    "Python.bai17.executor": "Run",
     "Python.bai2.executor": "Run",
     "Python.bai3.executor": "Run",
     "Python.bai4.executor": "Run",
@@ -60,8 +74,8 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.bai13_1">
-    <configuration name="bai 8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.bai17">
+    <configuration name="bai15-Traitim" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,7 +88,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bai 8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bai15-Traitim.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bai10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="bai16-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,7 +110,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bai10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bai16-2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bai13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="bai16-3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,7 +132,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bai13.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bai16-3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bai13_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="bai16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,7 +154,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bai13_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bai16.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bai4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="bai17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,7 +176,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bai4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bai17.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.bai13_1" />
-        <item itemvalue="Python.bai13" />
-        <item itemvalue="Python.bai10" />
-        <item itemvalue="Python.bai 8" />
-        <item itemvalue="Python.bai4" />
+        <item itemvalue="Python.bai17" />
+        <item itemvalue="Python.bai16-3" />
+        <item itemvalue="Python.bai16-2" />
+        <item itemvalue="Python.bai16" />
+        <item itemvalue="Python.bai15-Traitim" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747271165077</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new">
+      <option name="closed" value="true" />
+      <created>1747498526961</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1747498526961</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
